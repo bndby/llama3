@@ -1,0 +1,3 @@
+# Файл настроек
+
+preferences.xml
